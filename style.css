@@ -1,0 +1,25 @@
+*{margin: 0px; padding: 0px;} body{ font-family: cursive; width: 100%;}
+.allm{
+    border: 3px solid forestgreen;
+    margin: 15px 10% 15px 15%;
+    min-height: 800px;
+}
+.h{
+    background: lightblue;
+    padding: 15px;
+    text-align: center;
+}
+.ques{
+    background: chocolate;
+    padding-left: 2px;
+    color: rgba(0, 0, 0, 0.979);
+    margin: 5px;
+}
+.point{
+    background: darkslateblue;
+    color: white;
+}
+.h:hover{
+    background: violet;
+    transition: 1s ease;
+}
